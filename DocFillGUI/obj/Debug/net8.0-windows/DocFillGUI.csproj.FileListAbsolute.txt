@@ -1,0 +1,57 @@
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.exe
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.deps.json
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.runtimeconfig.json
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.dll
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.pdb
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.Form1.resources
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.csproj.GenerateResource.cache
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.AssemblyInfoInputs.cache
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.AssemblyInfo.cs
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.csproj.CoreCompileInputs.cache
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.dll
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\obj\Debug\net8.0-windows\refint\DocFillGUI.dll
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.pdb
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.genruntimeconfig.cache
+C:\Users\max.roehrig\Desktop\Work Automation\C_sharp_GUI_docfill\DocFillGUI\DocFillGUI\obj\Debug\net8.0-windows\ref\DocFillGUI.dll
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.exe
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.deps.json
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.runtimeconfig.json
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.dll
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.pdb
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.csproj.GenerateResource.cache
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.AssemblyInfoInputs.cache
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.AssemblyInfo.cs
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.csproj.CoreCompileInputs.cache
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.dll
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\refint\DocFillGUI.dll
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.pdb
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.genruntimeconfig.cache
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\ref\DocFillGUI.dll
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.sourcelink.json
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.csproj.AssemblyReference.cache
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.csproj.Up2Date
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\max.roehrig\Desktop\Work Automation\Visual Studio Csharp GUI\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.ArticleItem.resources
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.exe
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.deps.json
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.runtimeconfig.json
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.dll
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\bin\Debug\net8.0-windows\DocFillGUI.pdb
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.csproj.AssemblyReference.cache
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.ArticleItem.resources
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.csproj.GenerateResource.cache
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.AssemblyInfoInputs.cache
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.AssemblyInfo.cs
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.csproj.CoreCompileInputs.cache
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.csproj.Up2Date
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.dll
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\obj\Debug\net8.0-windows\refint\DocFillGUI.dll
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.pdb
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\obj\Debug\net8.0-windows\DocFillGUI.genruntimeconfig.cache
+C:\Users\max.roehrig\Desktop\Work Automation\GUI Technical Document Creation\DocFillGUI\obj\Debug\net8.0-windows\ref\DocFillGUI.dll
